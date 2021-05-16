@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spikes
+  - DoorReturn
+  - DoorContinue
+  - SwivelBlade
+  - MaskDude
+  - Platform
+  - Mace
+  - Water
+  - Traps
+  - Chest
+  - Skeleton
+  - Flag
+  - Damage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Collectables
+  - CheckGround
+  - InFloor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FloorSpring
+    uniqueID: 2893945731
+    locked: 0
